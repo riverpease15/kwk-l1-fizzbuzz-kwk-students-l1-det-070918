@@ -1,5 +1,5 @@
 def fizzbuzz(number)
-  if number 
+  if number % 
   
   
 end
