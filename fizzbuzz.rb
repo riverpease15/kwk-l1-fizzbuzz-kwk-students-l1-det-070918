@@ -1,3 +1,5 @@
-def fizzbuzz
+def fizzbuzz(number)
+  if number 
+  
   
 end
