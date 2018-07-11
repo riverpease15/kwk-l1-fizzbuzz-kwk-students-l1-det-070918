@@ -11,4 +11,4 @@ end
   
 end
 
-fizzbuzz(18)
+fizzbuzz(4)
