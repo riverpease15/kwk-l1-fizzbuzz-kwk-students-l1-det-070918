@@ -11,4 +11,7 @@ end
   
 end
 
-fizzbuzz()
+fizzbuzz(15)
+fizzbuzz(25)
+fizzbuzz(18)
+fizzbuzz(4)
